@@ -8,7 +8,7 @@ I work at the intersection of **machine learning, statistical modeling, explaina
 [![Website](https://img.shields.io/badge/Website-sanadbiswas.github.io-0A66C2?style=flat-square)](https://sanadbiswas.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=puRshxMAAAAJ&hl=en&oi=ao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sanad%20Biswas-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sanad-biswas)
-[![Email](https://img.shields.io/badge/Email-biswas.sanad%40shsu.edu-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:biswas.sanad@shsu.edu)
+[![Email](https://img.shields.io/badge/Email-biswas.sanad%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:biswas.sanad@gmail.com)
 
 ## Research Interests
 
