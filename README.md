@@ -53,7 +53,7 @@ I teach and have taught courses in:
 **Languages:** Python, R, SQL  
 **Machine Learning:** scikit-learn, XGBoost, LightGBM, PyTorch, TensorFlow  
 **Data & Workflow:** pandas, NumPy, Jupyter, Git, GitHub, Docker  
-**Cloud & Deployment:** Azure, FastAPI  
+**Cloud & Deployment:** AWS, Azure, FastAPI  
 **Generative AI:** LangChain, RAG  
 **Research Interests:** XAI, Responsible AI, model validation, reproducibility
 
