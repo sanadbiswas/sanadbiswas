@@ -16,6 +16,7 @@ I work at the intersection of **machine learning, statistical modeling, explaina
 - Explainable AI and Feature Significance
 - Responsible AI and Fairness
 - Generative AI and Retrieval-Augmented Generation
+- Gradient Boosting and Ensemble Learning
 - Statistical Inference and Model Validation
 
 ## Selected Research & Projects
