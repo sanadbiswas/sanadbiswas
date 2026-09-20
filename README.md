@@ -17,7 +17,6 @@ I work at the intersection of **machine learning, statistical modeling, explaina
 - Responsible AI and Fairness
 - Generative AI and Retrieval-Augmented Generation
 - Statistical Inference and Model Validation
-- MLOps and Reproducible Data Science
 
 ## Selected Research & Projects
 
